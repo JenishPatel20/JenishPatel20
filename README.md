@@ -20,7 +20,7 @@
 ```python
 jenish = {
     "role"      : "AI/ML Engineer Intern @ Greenlit",
-    "education" : "M.S. Computer Science — Rutgers University",
+    "education" : "B.S. Computer Science — Rutgers University",
     "focus"     : ["ML Systems", "NLP Pipelines", "Full-Stack AI"],
     "currently" : "Building LLM-powered pipelines for entertainment investment intelligence",
     "seeking"   : "Summer 2026 SWE / ML Engineering internships",
@@ -76,32 +76,16 @@ TFLite · ONNX · CoreML
 
 <div align="center">
 
-**ML / AI**
+<img src="https://skillicons.dev/icons?i=py,ts,java,react,nextjs,tailwind,nodejs,fastapi,mysql,git,linux&perline=11" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br/><br/>
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189EFF?style=for-the-badge&logo=xgboost&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189EFF?style=for-the-badge&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Backend & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frontend & Tools**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -111,30 +95,27 @@ TFLite · ONNX · CoreML
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JenishPatel20&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenishPatel20&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=7" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=JenishPatel20&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />&nbsp;&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenishPatel20&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=7" />
 
-</div>
+<br/>
 
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=JenishPatel20&theme=github-dark-blue&hide_border=true&stroke=0000&ring=58A6FF&fire=FF6E6E&currStreakLabel=58A6FF" />
-
-</div>
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=JenishPatel20&theme=github-compact&hide_border=true&area=true&area_color=58A6FF&line=58A6FF&point=8957E5" />
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=JenishPatel20&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=FF6E6E&currStreakLabel=58A6FF" />
 
 </div>
 
 <br/>
 
-## 🏆 Trophies
+## 🐍 Contributions
 
 <div align="center">
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=JenishPatel20&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://raw.githubusercontent.com/JenishPatel20/JenishPatel20/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark" />
+<img src="https://raw.githubusercontent.com/JenishPatel20/JenishPatel20/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation light" />
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=JenishPatel20&theme=github-compact&hide_border=true&area=true&area_color=1a1a2e&line=58A6FF&point=8957E5&color=8b949e" />
 
 </div>
 
