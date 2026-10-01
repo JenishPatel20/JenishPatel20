@@ -46,6 +46,7 @@ Browser-native benchmarking for local LLM inference using WebGPU/WebLLM, with me
 
 **Highlights:** 48–52 tokens/sec throughput · 73–172 ms time-to-first-token  
 **Tech:** WebGPU · WebLLM · Python  
+**Code:** Team/collaborative project  
 [View case study →](https://jenishpatel.vercel.app/projects/edge-ai-benchmark)
 
 ### Customer Churn Prediction
@@ -53,19 +54,21 @@ Explainable machine-learning pipeline across multiple churn datasets using class
 
 **Verified holdout ROC-AUC:** BankChurners **0.993** · Telco **0.824** · SaaS **0.769**  
 **Tech:** Python · scikit-learn · XGBoost · SHAP  
+**Code:** Public repository  
 [View repository →](https://github.com/JenishPatel20/customer-churn-project) · [Case study →](https://jenishpatel.vercel.app/projects/customer-churn)
 
 ### Auction Master
 Multi-role auction platform with marketplace workflows, administration tooling, notifications, image handling, and reserve-price enforcement.
 
 **Tech:** Node.js · Express · MySQL · Firebase  
-[View repository →](https://github.com/JenishPatel20/auction_master) · [Case study →](https://jenishpatel.vercel.app/projects/auction-master)
+**Code:** Private repository  
+[View case study →](https://jenishpatel.vercel.app/projects/auction-master)
 
 ### Industrial Fault Detection
 Team project exploring spiking neural networks for anomaly and fault detection using CNN-to-SNN transfer and surrogate-gradient training.
 
 **Tech:** PyTorch · TensorFlow · Python  
-**Repository:** Team/private codebase  
+**Code:** Team/private repository  
 [View case study →](https://jenishpatel.vercel.app/projects/industrial-anomaly-detection)
 
 ## Technical Stack
