@@ -76,32 +76,35 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>AI Systems</h3>
-      <p>Model evaluation, explainability, signal extraction, and production-ready ML workflows.</p>
+    <td width="33%" valign="top" align="left">
+      <h3>AI / ML Systems</h3>
+      <p>Training, evaluation, explainability, and practical model workflows built around measurable results.</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=111827" />
+        <img src="https://img.shields.io/badge/XGBoost-0F172A?style=flat-square&logoColor=white" />
       </p>
+      <p><b>Signal:</b> model quality, reproducibility, explainability</p>
     </td>
-    <td width="33%" valign="top">
-      <h3>Product Engineering</h3>
-      <p>Full-stack applications with clean data models, typed interfaces, and recruiter-friendly polish.</p>
+    <td width="33%" valign="top" align="left">
+      <h3>Backend Engineering</h3>
+      <p>APIs, data flows, persistence, and service logic designed for clarity, reliability, and maintainability.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
+      <p><b>Signal:</b> APIs, databases, service architecture</p>
     </td>
-    <td width="33%" valign="top">
-      <h3>Systems Thinking</h3>
-      <p>Benchmarks, runtime tradeoffs, graph search, OOP engines, and performance instrumentation.</p>
+    <td width="33%" valign="top" align="left">
+      <h3>Systems & Performance</h3>
+      <p>Benchmarking, runtime tradeoffs, browser-native inference, and performance-aware engineering.</p>
       <p>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" />
         <img src="https://img.shields.io/badge/WebGPU-005A9C?style=flat-square&logo=webgpu&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=white" />
       </p>
+      <p><b>Signal:</b> latency, throughput, runtime behavior</p>
     </td>
   </tr>
 </table>
