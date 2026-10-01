@@ -167,27 +167,6 @@
 
 <br />
 
-## Live Metrics
-
-<div align="center">
-
-<img height="178" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JenishPatel20&show_icons=true&theme=github_dark&hide_border=true&bg_color=020617&title_color=93c5fd&text_color=cbd5e1&icon_color=60a5fa&rank_icon=github&include_all_commits=true&count_private=true" />
-<img height="178" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenishPatel20&layout=compact&theme=github_dark&hide_border=true&bg_color=020617&title_color=93c5fd&text_color=cbd5e1&langs_count=8" />
-
-<br />
-<br />
-
-<img width="70%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=JenishPatel20&theme=github-dark-blue&hide_border=true&background=020617&ring=93C5FD&fire=60A5FA&currStreakLabel=93C5FD" />
-
-<br />
-<br />
-
-<img width="95%" alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=JenishPatel20&theme=react-dark&hide_border=true&area=true&bg_color=020617&color=cbd5e1&line=60a5fa&point=93c5fd&area_color=1e3a8a" />
-
-</div>
-
-<br />
-
 ## Recruiter Quick Scan
 
 <table>
@@ -257,11 +236,6 @@
 <br />
 
 <div align="center">
-
-<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=JenishPatel20&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-
-<br />
-<br />
 
 <img alt="Footer" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:1e3a8a,55:0f172a,100:020617" />
 
