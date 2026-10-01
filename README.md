@@ -1,12 +1,24 @@
+<img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:020617,45:0f172a,100:1e3a8a&text=Jenish%20Patel&fontColor=e5f2ff&fontSize=76&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Backend%20%26%20Software%20Systems%20%C2%B7%20Rutgers%20CS&descAlignY=56&descSize=20&descColor=93c5fd&animation=fadeIn" />
+
 <div align="center">
 
-# Jenish Patel
+<a href="https://jenishpatel.vercel.app">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/jenish--patel">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:jenishvpatel4995@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/JenishPatel20?tab=repositories">
+  <img alt="Repositories" src="https://img.shields.io/badge/Repositories-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### AI/ML Engineer · Backend & Software Systems
+<br />
+<br />
 
 **M.S. Computer Science, Rutgers University · Dec 2026**
-
-[Portfolio](https://jenishpatel.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jenish--patel) · [Email](mailto:jenishvpatel4995@gmail.com)
 
 </div>
 
