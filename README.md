@@ -27,27 +27,37 @@
 
 <table>
   <tr>
-    <td width="52%" valign="top">
-      <h3>Engineering Signal</h3>
+    <td width="44%" valign="top">
+      <h3>Engineering Snapshot</h3>
       <p>
-        I like building systems where the demo is real, the metrics are visible,
-        and the implementation has enough discipline to survive beyond the first pitch.
+        I build practical AI/ML and backend systems with an emphasis on measurable performance,
+        clear technical tradeoffs, and production-minded implementation.
       </p>
-      <ul>
-        <li><b>Current work:</b> AI/ML Engineer Intern at Greenlit, building market-intelligence pipelines.</li>
-        <li><b>Focus:</b> ML systems, applied NLP, analytics backends, and polished product UI.</li>
-        <li><b>Education:</b> Computer Science at Rutgers University.</li>
-        <li><b>Looking for:</b> Software Engineering and ML Engineering opportunities.</li>
-      </ul>
+      <p>
+        <b>Focus</b><br />
+        Applied ML · Backend APIs · Edge AI · Data systems
+      </p>
+      <p>
+        <b>Education</b><br />
+        Rutgers M.S. Computer Science · Dec 2026
+      </p>
+      <p>
+        <b>Target roles</b><br />
+        Software · Backend · AI/ML · Data Engineering
+      </p>
     </td>
-    <td width="48%" valign="top">
-      <h3>Live Terminal</h3>
+    <td width="56%" valign="top">
+      <h3>Build Profile</h3>
       <pre><code class="language-python">jenish = {
-    "role": "AI/ML Engineer + Full-Stack Builder",
-    "ships": ["ML pipelines", "FastAPI services", "interactive UIs"],
-    "research": ["edge LLMs", "SNN anomaly detection", "robot localization"],
-    "default_mode": "measure twice, ship once, iterate fast",
+    "builds": ["ML systems", "backend APIs", "data products"],
+    "stack": ["Python", "FastAPI", "PyTorch", "TypeScript"],
+    "interests": ["edge AI", "model evaluation", "systems"],
+    "approach": "measure → build → validate → ship",
 }</code></pre>
+      <p>
+        <b>Engineering style:</b> benchmark what matters, keep the implementation understandable,
+        and make results easy to verify.
+      </p>
     </td>
   </tr>
 </table>
