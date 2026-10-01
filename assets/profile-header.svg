@@ -1,0 +1,13 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.48" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E3A8A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="420" fill="url(#bg)"/>
+  <path d="M0 360C260 345 420 385 690 370C960 355 1180 325 1600 365V420H0V360Z" fill="#020617" fill-opacity="0.72"/>
+  <text x="800" y="205" text-anchor="middle" fill="#E5F2FF" font-family="Arial, Helvetica, sans-serif" font-size="104" font-weight="700">Jenish Patel</text>
+  <text x="800" y="280" text-anchor="middle" fill="#BFDBFE" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="600">AI / ML Engineer  |  Backend &amp; Software Systems  |  Rutgers CS</text>
+</svg>
